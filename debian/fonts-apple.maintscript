@@ -1,0 +1,5 @@
+rm_conffile /etc/fonts/conf.avail/55-apple-color-emoji.conf 21.0d2e1-5~
+rm_conffile /etc/fonts/conf.avail/55-fonts-apple.conf 21.0d2e1-5~
+rm_conffile /etc/fonts/conf.avail/55-fonts-apple-monospace.conf 21.0d2e1-5~
+rm_conffile /etc/fonts/conf.avail/55-fonts-apple-sans-serif.conf 21.0d2e1-5~
+rm_conffile /etc/fonts/conf.avail/55-fonts-pingfang.conf 21.0d2e1-5~

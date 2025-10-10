@@ -1,0 +1,19 @@
+#!/usr/bin/dh-exec
+Apple/AppleColorEmoji.ttf     usr/share/fonts/truetype/Apple
+Apple/AppleSymbols.ttf     usr/share/fonts/truetype/Apple
+Apple/Monaco.ttf     usr/share/fonts/truetype/Apple
+Apple/NewYork.ttf     usr/share/fonts/truetype/Apple
+Apple/PingFang.ttc     usr/share/fonts/truetype/Apple
+Apple/SFFont.ttf     usr/share/fonts/truetype/Apple
+Apple/SFMono-Light.ttf     usr/share/fonts/truetype/Apple
+Apple/SFMono-Regular.ttf     usr/share/fonts/truetype/Apple
+Apple/STHeiti-SC.TTF    usr/share/fonts/truetype/Apple
+
+
+debian/LICENSE.txt => usr/share/doc/fonts-apple/Apple.md
+
+debian/55-apple-color-emoji.conf    etc/fonts/conf.avail
+debian/55-fonts-apple.conf    etc/fonts/conf.avail
+debian/55-fonts-apple-monospace.conf    etc/fonts/conf.avail
+debian/55-fonts-apple-sans-serif.conf    etc/fonts/conf.avail
+debian/55-fonts-pingfang.conf    etc/fonts/conf.avail

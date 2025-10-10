@@ -1,0 +1,6 @@
+apple (21.0d2e1-6) unstable; urgency=medium
+
+  Split package to PingFang for regular and bold weights, and
+  SF for all other weights.
+
+  -- Yaotang Mao <maoyaotang@163.com>  Fri, 10 Oct 2025 13:03:55 +0800
